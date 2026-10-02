@@ -2,7 +2,7 @@
   "item": {
     "id": "com.cahkcs.toxun",
     "restype": "quick_app",
-    "name": "传输助手-MapWire",
+    "name": "传输助手",
     "description": "一款拥有手表与手机中间的大量交互功能,内置九号控制，图片与小说传输自动压缩，翻译,答案之书,手机遥控(触摸板模式),支持一键拍照实时传输显示，支持手表离机笔记编辑，支持笔记传输到手机，需要下载配套APK使用",
     "preview": [
       "media/xiaomi_band_10-2026-10-01-17-17-17.png",
@@ -17,7 +17,7 @@
       "media/xiaomi_band_10-2026-10-02-12-46-16.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/cover_transfer_assistant_1200x800.png",
+    "cover": "media/cover_transfer_assistant_clean_1200x800.png",
     "author": [
       {
         "name": "cahkcs",
