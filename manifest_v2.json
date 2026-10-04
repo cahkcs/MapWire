@@ -19,7 +19,7 @@
       "media/999d0a2f8b463bbcde641e0a813e0809.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/chuanshuzhushou_cover_1200x800.png",
+    "cover": "media/chuanshuzhushou_cover_1200x800.jpg",
     "author": [
       {
         "name": "cahkcs",
@@ -31,69 +31,69 @@
     {
       "title": "apk下载",
       "url": "https://fht.steam.cab/apk.php",
-      "icon": "Backpack"
+      "icon": "backpack"
     },
     {
       "title": "爱发电购买",
       "url": "https://ifdian.net/a/cahkcs",
-      "icon": "AirTrafficControl"
+      "icon": "air-traffic-control"
     },
     {
       "title": "官网",
       "url": "https://mi.steam.cab/",
-      "icon": "FacebookLogo"
+      "icon": "facebook-logo"
     }
   ],
   "downloads": {
     "xmrw5": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmrw5xring": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmrw6": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb10": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb10nfc": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb10p": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb11": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb11nfc": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb9": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     },
     "xmb9p": {
       "version": "1.6.7",
       "file_name": "downloads/com.cahkcs.toxun.release.1.6.7.rpk",
-      "versionCode": 69
+      "versionCode": 70
     }
   },
   "ext": {}
