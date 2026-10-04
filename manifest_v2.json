@@ -48,52 +48,112 @@
     "xmrw5": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-Pro版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmrw5xring": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-Pro版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmrw6": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-Pro版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb10": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-米环版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb10nfc": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-米环版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb10p": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-Pro版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb11": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-米环版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb11nfc": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-米环版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb9": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-米环版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     },
     "xmb9p": {
       "version": "1.7.0",
       "file_name": "downloads/传输助手-手表-1.7.0-Pro版.rpk",
-      "versionCode": 72
+      "versionCode": 72,
+      "updatelogs": [
+        {
+          "version": "1.7.0",
+          "content": "米粒深度适配，提高流畅度，修复手机连接显示异常bug"
+        }
+      ]
     }
   },
   "ext": {}
